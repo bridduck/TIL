@@ -1,4 +1,4 @@
-# script defer와 async
+# script defer& async
 ## **defer***
 ```html
 
