@@ -1,4 +1,7 @@
 # script defer& async
+
+>웹창을 열 때 html parsing과 자바스크립트 파일의 다운 순서, 자바스크립트 실행 순서에 관함
+
 ## **defer***
 ```html
 
