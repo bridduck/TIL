@@ -94,7 +94,7 @@ console.log(`value: ${count}, type: ${typeof size}`);
  console.log(negativeInfinity);
  console.log(nAn);
 ```
-> 숫자가 아닌 것을 숙자로 나누면 => nAn
+> 숫자가 아닌 것을 숫자로 나누면 => nAn
 
 ### string (문자)
 
