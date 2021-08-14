@@ -120,7 +120,6 @@ select{
     -moz-appearance: none;
     appearance: none;
     outline: none;
-    border: none;   
 
 }
 
@@ -130,7 +129,6 @@ select{
     overflow: hidden;
     display: flex;
     justify-content: center;
-
 }
 
 
@@ -140,23 +138,26 @@ select{
     padding: 0.5rem;
     border: solid 0.2rem rgb(70, 63, 53);
     border-radius: 2rem;
+
 }
 
-
+/* 
 .select::after{
     content:"\25BC";
     padding: 0.5rem;
     pointer-events: none;
     position: absolute;
-    /* position: absolute;
+
+    position: absolute;
     background: rgb(70, 63, 53);
     top: 0;
     right: 0;
     padding: 1rem;
     pointer-events: none;
     border-style: hidden;
-    transition: 0.3s ease; */
-}
+    transition: 0.3s ease;
+} */
+
 .select:hover{
     background-color: #ffffff;
     color: rgb(70, 63, 53);
